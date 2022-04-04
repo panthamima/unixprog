@@ -3,6 +3,11 @@
 #include <stdint.h>
 #include <dirent.h>
 #include <time.h>
+#include <ctype.h>
+#include <complex.h>
+#include <fenv.h>
+#include <assert.h>
+#include <float.h>
 #include <errno.h>
 #include <string.h>
 #include <unistd.h>
