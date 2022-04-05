@@ -8,6 +8,7 @@
 #include <fenv.h>
 #include <assert.h>
 #include <float.h>
+#include <limits.h>
 #include <errno.h>
 #include <string.h>
 #include <unistd.h>
